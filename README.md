@@ -12,10 +12,9 @@ Saya seorang pengembang yang suka bereksperimen dengan animasi web dan UI/UX, se
 - 🛠 **Alat**:Apache, Git, Docker, VS Code, Anaconda
 - 🌐 **Framework**: React, Node.js
 
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript)
-![Java](https://img.shields.io/badge/-Java-F7DF1E?style=flat&logo=java)
-
 
 ## Statistik GitHub
 ![Stats](https://github-readme-stats.vercel.app/api?username=4lDev&show_icons=true&theme=radical)
