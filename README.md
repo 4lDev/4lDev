@@ -1,9 +1,12 @@
 <div align="center">
 
-<img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="150" alt="Hi!" />
+<!-- Animasi Lottie -->
+<a href="https://www.linkedin.com/in/albet-michael-kristian" target="_blank">
+  <img src="https://assets4.lottiefiles.com/packages/lf20_yr6zz3wv.json" width="140" alt="Dev Animation" />
+</a>
 
-# Halo, Saya **Albet Michael Kristian** 👨‍💻  
-_Web & Java Developer | UI/UX Enthusiast | Data Management Focus_
+# 👋 Halo, Saya **Albet Michael Kristian**
+### _Web & Java Developer | UI/UX Enthusiast | Data System Architect_
 
 </div>
 
@@ -11,9 +14,8 @@ _Web & Java Developer | UI/UX Enthusiast | Data Management Focus_
 
 ## 🧾 Tentang Saya
 
-Saya adalah seorang pengembang yang berfokus pada **pengembangan aplikasi interaktif berbasis web, aplikasi dan Java**,  
-serta memiliki ketertarikan besar terhadap **desain antarmuka** dan **pengelolaan data** yang efisien.  
-Saya senang membangun solusi digital yang **fungsional**, **estetis**, dan **berkelanjutan**.
+Saya adalah pengembang yang fokus pada **pengembangan aplikasi interaktif berbasis web, aplikasi berbasis Java**, serta eksplorasi dalam **desain UI/UX** dan **pengelolaan data**.  
+Saya percaya bahwa _kualitas kode_ harus berjalan seiring dengan _pengalaman pengguna_.
 
 ---
 
@@ -21,8 +23,8 @@ Saya senang membangun solusi digital yang **fungsional**, **estetis**, dan **ber
 
 <div align="center">
 
-| Bahasa Pemrograman | Tools & Platform | Framework & Library |
-|--------------------|------------------|----------------------|
+| 💻 Bahasa Pemrograman | 🧰 Tools & Platform | 🚀 Framework & Library |
+|-----------------------|---------------------|--------------------------|
 | ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) | ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) |
 
 </div>
@@ -31,14 +33,14 @@ Saya senang membangun solusi digital yang **fungsional**, **estetis**, dan **ber
 
 ## 🚀 Proyek Saya
 
-### 🐾 [BuddyPet – Aplikasi Pet Shop](https://github.com/nepile/buddypet.git)
+### 🐾 [BuddyPet – Aplikasi Pet Shop & Adopsi](https://github.com/nepile/buddypet.git)
 
 > **Deskripsi Singkat**:  
-> BuddyPet adalah platform untuk mencari barang", makanan, hingga hewan peliharaan.  
-> Dibuat untuk mempermudah pencocokan hewan peliharaan dengan calon adopter, alat-alat, serta makanan hewan peliharaan anda.
+> BuddyPet adalah platform digital untuk mencari hewan peliharaan, makanan, hingga perlengkapan hewan.  
+> Dibuat untuk mempermudah proses adopsi dan pembelian kebutuhan hewan peliharaan.
 
-- 💡 **Fitur**: Registrasi pengguna, listing hewan, pencarian, sistem backend
-- 🧩 **Teknologi**: HTML, CSS, JavaScript, PHP, MySQL
+- 🧩 **Fitur**: Registrasi pengguna, listing hewan, filter pencarian, sistem backend
+- 💻 **Teknologi**: HTML, CSS, JavaScript, PHP, MySQL
 - 🔗 **Link Repo**: [github.com/nepile/buddypet](https://github.com/nepile/buddypet)
 
 ---
@@ -61,6 +63,6 @@ Saya senang membangun solusi digital yang **fungsional**, **estetis**, dan **ber
 
 <div align="center">
 
-> *"Code is not just about logic, it's about creating something that works beautifully."* 💫
+> 💡 _"Programming is not just about writing code. It's about designing experiences."_  
 
 </div>
