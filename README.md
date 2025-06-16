@@ -14,10 +14,6 @@ Saya seorang pengembang yang suka bereksperimen dengan animasi web, UI/UX, dan m
 
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript)
 
-## Proyek Unggulan
-- **[Manajemen Gereja (Java)](https://github.com/4lDev/church-management-java)**: Sistem manajemen data jemaat berbasis Java dengan antarmuka desktop.
-- **[Website Ulang Tahun](https://github.com/4lDev/birthday-website)**: Halaman web interaktif dengan animasi bunga dan efek bintang berkedip.
-
 ## Statistik GitHub
 ![Stats](https://github-readme-stats.vercel.app/api?username=4lDev&show_icons=true&theme=radical)
 
