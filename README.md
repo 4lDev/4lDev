@@ -12,10 +12,7 @@ Saya seorang pengembang yang suka bereksperimen dengan animasi web, UI/UX, dan m
 - 🛠 **Alat**: Apache, Git, Docker, VS Code, Anaconda
 - 🌐 **Framework**: React, Node.js
 
-<!-- Badge dengan jarak untuk mencegah tumpang tindih -->
-<img src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java" alt="Java" style="margin-right: 10px;"/>
-<img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python" alt="Python" style="margin-right: 10px;"/>
-<img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript" alt="JavaScript"/>
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript)
 
 ## Proyek Unggulan
 - **[Manajemen Gereja (Java)](https://github.com/4lDev/church-management-java)**: Sistem manajemen data jemaat berbasis Java dengan antarmuka desktop.
@@ -26,4 +23,3 @@ Saya seorang pengembang yang suka bereksperimen dengan animasi web, UI/UX, dan m
 
 ## Hubungi Saya
 - 📧 Email: [albertmichael221@gmail.com](mailto:albertmichael221@gmail.com)
-- 🐦 X: [@username Anda] <!-- Ganti dengan username X Anda jika ada -->
