@@ -2,7 +2,7 @@
 
 <!-- Animasi Lottie -->
 <a href="https://www.linkedin.com/in/albet-michael-kristian" target="_blank">
-  <img src="https://assets4.lottiefiles.com/packages/lf20_yr6zz3wv.json" width="140" alt="Dev Animation" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="180" />
 </a>
 
 # 👋 Halo, Saya **Albet Michael Kristian**
