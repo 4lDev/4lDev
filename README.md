@@ -11,7 +11,7 @@ _Web & Java Developer | UI/UX Enthusiast | Data Management Focus_
 
 ## 🧾 Tentang Saya
 
-Saya adalah seorang pengembang yang berfokus pada **pengembangan aplikasi interaktif berbasis web dan Java**,  
+Saya adalah seorang pengembang yang berfokus pada **pengembangan aplikasi interaktif berbasis web, aplikasi dan Java**,  
 serta memiliki ketertarikan besar terhadap **desain antarmuka** dan **pengelolaan data** yang efisien.  
 Saya senang membangun solusi digital yang **fungsional**, **estetis**, dan **berkelanjutan**.
 
@@ -31,11 +31,11 @@ Saya senang membangun solusi digital yang **fungsional**, **estetis**, dan **ber
 
 ## 🚀 Proyek Unggulan
 
-### 🐾 [BuddyPet – Aplikasi Adopsi Hewan Peliharaan](https://github.com/nepile/buddypet.git)
+### 🐾 [BuddyPet – Aplikasi Pet Shop](https://github.com/nepile/buddypet.git)
 
 > **Deskripsi Singkat**:  
-> BuddyPet adalah platform adopsi hewan peliharaan yang ramah pengguna.  
-> Dibuat untuk mempermudah pencocokan hewan peliharaan dengan calon adopter.
+> BuddyPet adalah platform untuk mencari barang", makanan, hingga hewan peliharaan.  
+> Dibuat untuk mempermudah pencocokan hewan peliharaan dengan calon adopter, alat-alat, serta makanan hewan peliharaan anda.
 
 - 💡 **Fitur**: Registrasi pengguna, listing hewan, pencarian, sistem backend
 - 🧩 **Teknologi**: HTML, CSS, JavaScript, PHP, MySQL
