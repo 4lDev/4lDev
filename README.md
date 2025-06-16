@@ -29,7 +29,7 @@ Saya senang membangun solusi digital yang **fungsional**, **estetis**, dan **ber
 
 ---
 
-## 🚀 Proyek Unggulan
+## 🚀 Proyek Saya
 
 ### 🐾 [BuddyPet – Aplikasi Pet Shop](https://github.com/nepile/buddypet.git)
 
