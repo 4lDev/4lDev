@@ -14,6 +14,7 @@ Saya seorang pengembang yang suka bereksperimen dengan animasi web dan UI/UX, se
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript)
+![Java](https://img.shields.io/badge/-Java-F7DF1E?style=flat&logo=java)
 
 
 ## Statistik GitHub
