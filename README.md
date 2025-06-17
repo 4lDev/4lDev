@@ -7,7 +7,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/albet-michael-kristian)
 [![Email](https://img.shields.io/badge/Email-albertmichael221@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:albertmichael221@gmail.com)
-![Open to Work](https://img.shields.io/badge/Open%20To-Work-green?style=flat-square&logo=handshake)
 
 </div>
 
