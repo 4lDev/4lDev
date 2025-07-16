@@ -43,6 +43,14 @@ Saya senang menggabungkan **fungsionalitas teknis** dengan **keindahan visual**,
 - 🧩 **Teknologi**: HTML · CSS · JavaScript · PHP · MySQL
 - 📦 **Repo**: [github.com/nepile/buddypet](https://github.com/nepile/buddypet)
 
+### 🧠 RME-OSCE UKDI Corner – Sistem Rekam Medis OSCE
+
+> Platform digital untuk simulasi OSCE (Objective Structured Clinical Examination) dengan alur pemeriksaan, diagnosis, terapi, dan penilaian berbasis peran.
+
+- 🔑 Fitur Utama: Multi-role login (mentor & peserta), input pemeriksaan-diagnosis-terapi, penilaian otomatis, navigasi dinamis antar sesi
+- 🧩 Teknologi: Laravel · Blade · PHP · Bootstrap · MySQL
+- 📦 Repo: github.com/nepile/rme-osceukdicorner
+
 ---
 
 ## 📈 Statistik GitHub
