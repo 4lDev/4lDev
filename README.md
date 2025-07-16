@@ -49,7 +49,7 @@ Saya senang menggabungkan **fungsionalitas teknis** dengan **keindahan visual**,
 
 - 🔑 Fitur Utama: Multi-role login (mentor & peserta), input pemeriksaan-diagnosis-terapi, penilaian otomatis, navigasi dinamis antar sesi
 - 🧩 Teknologi: Laravel · Blade · PHP · Bootstrap · MySQL
-- 📦 Repo: github.com/nepile/rme-osceukdicorner
+- 📦 Repo: [github.com/nepile/rme-osceukdicorner](https://github.com/nepile/rme-osceukdicorner)
 
 ---
 
