@@ -10,7 +10,7 @@
 ## Technical Skills
 ###
 
-<img align="right" height="300" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXRqNWZyd21qejNoZWl6MWV2bjI5YWpudnNpa2Q4eWtpdjBic3g3MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LmNwrBhejkK9EFP504/giphy.gif" />
+<img align="right" height="250" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXRqNWZyd21qejNoZWl6MWV2bjI5YWpudnNpa2Q4eWtpdjBic3g3MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LmNwrBhejkK9EFP504/giphy.gif" />
 
 ###
 
