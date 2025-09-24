@@ -1,4 +1,4 @@
-<div align="center">
+<div align="left">
 
 # Hey, I'm Albet Michael Kristian!
 ### Web & Android Developer · UI/UX Enthusiast · Data Management Specialist
@@ -10,7 +10,7 @@
 ## Technical Skills
 ###
 
-<img align="right" height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+<img align="right" height="300" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXRqNWZyd21qejNoZWl6MWV2bjI5YWpudnNpa2Q4eWtpdjBic3g3MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LmNwrBhejkK9EFP504/giphy.gif" />
 
 ###
 
@@ -65,7 +65,7 @@
 
 ## GitHub Stats
 
-<div align="center">
+<div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=4lDev&show_icons=true&theme=dracula&hide_border=true&rank_icon=github" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=4lDev&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" />
   <br>
