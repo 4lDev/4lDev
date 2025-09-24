@@ -33,27 +33,27 @@ Saya senang menggabungkan **fungsionalitas teknis** dengan **keindahan visual**,
 
 ---
 
-## 🚀 Proyek Unggulan
+## Proyek Unggulan
 
-### 🐾 [BuddyPet – Platform Adopsi & Pet Shop](https://github.com/nepile/buddypet.git)
+### [BuddyPet – Platform Adopsi & Pet Shop](https://github.com/nepile/buddypet.git)
 
 > Platform digital untuk mencari dan mengadopsi hewan peliharaan, serta membeli makanan dan perlengkapannya.
 
-- 🔑 **Fitur Utama**: Registrasi pengguna, manajemen listing, filter cerdas, backend modular
-- 🧩 **Teknologi**: HTML · CSS · JavaScript · PHP · MySQL
-- 📦 **Repo**: [github.com/nepile/buddypet](https://github.com/nepile/buddypet)
+- **Fitur Utama**: Registrasi pengguna, manajemen listing, filter cerdas, backend modular
+- **Teknologi**: HTML · CSS · JavaScript · PHP · MySQL
+- **Repo**: [github.com/nepile/buddypet](https://github.com/nepile/buddypet)
 
-### 🧠 [RME-OSCE UKDI Corner – Sistem Rekam Medis OSCE](https://github.com/nepile/rme-osceukdicorner)
+### [RME-OSCE UKDI Corner – Sistem Rekam Medis OSCE](https://github.com/nepile/rme-osceukdicorner)
 
 > Platform digital untuk simulasi OSCE (Objective Structured Clinical Examination) dengan alur pemeriksaan, diagnosis, terapi, dan penilaian berbasis peran.
 
-- 🔑 Fitur Utama: Multi-role login (mentor & peserta), input pemeriksaan-diagnosis-terapi, penilaian otomatis, navigasi dinamis antar sesi
-- 🧩 Teknologi: Laravel · Blade · PHP · Bootstrap · MySQL
-- 📦 Repo: [github.com/nepile/rme-osceukdicorner](https://github.com/nepile/rme-osceukdicorner)
+- Fitur Utama: Multi-role login (mentor & peserta), input pemeriksaan-diagnosis-terapi, penilaian otomatis, navigasi dinamis antar sesi
+- Teknologi: Laravel · Blade · PHP · Bootstrap · MySQL
+- Repo: [github.com/nepile/rme-osceukdicorner](https://github.com/nepile/rme-osceukdicorner)
 
 ---
 
-## 📈 Statistik GitHub
+## Statistik GitHub
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=4lDev&show_icons=true&theme=radical" width="420"/>
@@ -62,10 +62,10 @@ Saya senang menggabungkan **fungsionalitas teknis** dengan **keindahan visual**,
 
 ---
 
-## 📬 Kontak & Jaringan
+## Kontak & Jaringan
 
-- 📧 Email: [albertmichael221@gmail.com](mailto:albertmichael221@gmail.com)  
-- 💼 LinkedIn: [linkedin.com/in/albet-michael-kristian](https://www.linkedin.com/in/albet-michael-kristian)
+- Email: [albertmichael221@gmail.com](mailto:albertmichael221@gmail.com)  
+- LinkedIn: [linkedin.com/in/albet-michael-kristian](https://www.linkedin.com/in/albet-michael-kristian)
 
 ---
 
