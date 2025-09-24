@@ -12,7 +12,7 @@
 
 ---
 
-## 🧾 Tentang Saya
+## Tentang Saya
 
 Saya adalah pengembang perangkat lunak yang berdedikasi dalam membangun **aplikasi interaktif berbasis web dan Java**,  
 dengan ketertarikan tinggi pada **desain antarmuka pengguna (UI/UX)** serta **arsitektur sistem dan manajemen data**.
@@ -21,11 +21,11 @@ Saya senang menggabungkan **fungsionalitas teknis** dengan **keindahan visual**,
 
 ---
 
-## ⚙️ Keterampilan Teknis
+## Keterampilan Teknis
 
 <div align="center">
 
-| 💻 Bahasa Pemrograman | 🛠️ Tools & Platform | 🚀 Framework & Library |
+| Bahasa Pemrograman | Tools & Platform | Framework & Library |
 |-----------------------|----------------------|--------------------------|
 | ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white) ![PHP 8.2](https://img.shields.io/badge/PHP%208.2-800080?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) | ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) |
 
