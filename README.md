@@ -1,6 +1,6 @@
 <div align="left">
 
-# Hey, I'm Albet Michael Kristian!
+# Hi, I'm Albet Michael Kristian!
 ### Web & Android Developer · UI/UX Enthusiast · Data Management Specialist
 
 </div>
