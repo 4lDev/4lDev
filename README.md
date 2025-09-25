@@ -1,7 +1,7 @@
 <div align="left">
 
 # Hi, I'm Albet Michael Kristian!
-### Web & Android Developer
+### Web & Mobile Developer
 
 </div>
 
