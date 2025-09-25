@@ -1,7 +1,7 @@
 <div align="left">
 
 # Hi, I'm Albet Michael Kristian!
-### Web & Mobile Developer
+_Web & Mobile Developer_
 
 </div>
 
@@ -15,7 +15,7 @@
 ###
 
 <div align="left">
-  <h3>Languages & Frameworks</h3>
+  <h4>Languages & Frameworks</h4>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
@@ -35,7 +35,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" alt="go logo"  />
   <img width="12" />
 
-  <h3>Tools & Platforms</h3>
+  <h4>Tools & Platforms</h4>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
@@ -49,7 +49,7 @@
 
 ###
 
-<h3>Contacts</h3>
+<h4>Contacts</h4>
 <div align="left">
   <a href="https://www.linkedin.com/in/albet-michael-kristian">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
