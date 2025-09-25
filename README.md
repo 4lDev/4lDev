@@ -67,7 +67,6 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=4lDev&show_icons=true&theme=dracula&hide_border=true&rank_icon=github" alt="GitHub Stats" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=4lDev&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" />
-<img align="center" src="https://streak-stats.demolab.com?user=4lDev&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 <img src="https://github-profile-trophy.vercel.app?username=4lDev&theme=dracula&hide_border=true&no-bg=true&column=-1&row=1" alt="trophy graph" />
 
 ---
