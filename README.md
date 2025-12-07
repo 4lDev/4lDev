@@ -57,9 +57,8 @@ _Web & Mobile Developer_
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=4lDev&theme=rose&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=4lDev&theme=rose&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=4lDev&theme=rose&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=4lDev&theme=graywhite&hide_border=false&include_all_commits=false&count_private=false)<br/> ![](https://nirzak-streak-stats.vercel.app/?user=4lDev&theme=graywhite&hide_border=false)<br/> ![](https://github-readme-stats.vercel.app/api/top-langs/?username=4lDev&theme=graywhite&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-profile-trophy.vercel.app/?username=4lDev&theme=solarized-light&no-frame=false&no-bg=true&margin-w=4)
 
 
 ###
@@ -72,10 +71,9 @@ _Web & Mobile Developer_
 
 ###
 
----
 
 <div align="center">
 
-_"Programming is not just about writing code — it’s about designing experiences, solving problems, and shaping the digital future.”_
+### ✍️ Random Dev Quote ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
 
 </div>
