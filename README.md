@@ -1,6 +1,6 @@
 <div align="left">
 
-# Hi, I'm Albet Michael Kristian!
+# _Hi, I'm Albet Michael Kristian!_
 _Web & Mobile Developer_
 
 </div>
@@ -58,14 +58,9 @@ _Web & Mobile Developer_
 
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=4lDev&theme=graywhite&hide_border=false&include_all_commits=false&count_private=false)<br/> ![](https://nirzak-streak-stats.vercel.app/?user=4lDev&theme=graywhite&hide_border=false)<br/> ![](https://github-readme-stats.vercel.app/api/top-langs/?username=4lDev&theme=graywhite&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=4lDev&layout=compact&theme=transparent&hide_border=true)
-
-![](https://github-profile-trophy.vercel.app/?username=4lDev&theme=solarized-light&no-frame=false&no-bg=true&margin-w=4)
-
+![](https://github-profile-trophy.vercel.app/?username=4lDev&theme=solarized-light&no-frame=false&no-bg=false&margin-w=4)
 
 ###
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/4lDev/4lDev/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/4lDev/4lDev/output/pacman-contribution-graph.svg">
@@ -74,4 +69,8 @@ _Web & Mobile Developer_
 
 ###
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
+<div>
+  
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light) 
+
+</div>
