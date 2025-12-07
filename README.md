@@ -72,7 +72,7 @@ _Web & Mobile Developer_
 ###
 
 
-<div align="center">
+<div>
 
 ### ✍️ Random Dev Quote ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
 
